@@ -1,4 +1,4 @@
-#Juego de Ahorcado en JAVA
+# Juego de Ahorcado en JAVA
 Hicimos un juego de ahorcado en JAVA, donde uno debe ir colocando letra a letra por consola,   posee sirca cantidad de intentos  (aciertos). Si logra completar toda la palabra, uno ¡¡¡gana!!!, caso contrario cuando se acaban los intentos, uno pierde...  
 
 ## ¿Qué herramientas utilizamos?
